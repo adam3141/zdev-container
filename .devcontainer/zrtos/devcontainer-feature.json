@@ -1,0 +1,36 @@
+{
+    "id": "zrtos",
+    "version": "0.0.1",
+    "name": "Zephyr RTOS",
+    "description": "Feature to install the Zephyr RTOS",
+    "keywords": [
+        "RTOS",
+        "Zephyr"
+    ],
+    "options": {}
+    // "options": {
+    //     "sdk-version": {
+    //         "type": "string",
+    //         "proposals": [
+    //             "0.14.2",
+    //             "0.15.2",
+    //             "0.16.8"
+    //         ],
+    //         "default": "0.16.8",
+    //         "description": "Version of Zephyr SDK. Must be >= 0.14.0"
+    //     },
+    //     "host-tools": {
+    //         "type": "boolean",
+    //         "default": false,
+    //         "description": "Install host tools. See the sdk-ng repository for the list"
+    //     },
+    //     "toolchains": {
+    //         "type": "string",
+    //         "proposals": [
+    //             "arm-zephyr-eabi, x86_64-zephyr-elf"
+    //         ],
+    //         "default": "arm-zephyr-eabi, x86_64-zephyr-elf",
+    //         "description": "Comma separated list of toolchains. See the sdk-ng repository for the list"
+    //     }
+    // }
+}

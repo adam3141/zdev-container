@@ -1,0 +1,4 @@
+# Any local features will not be added to the git repository
+# /.devcontainer/*
+# !/.devcontainer/devcontainer.json
+# !/.devcontainer/Dockerfile
